@@ -104,5 +104,5 @@ ${data.tests}
 
 module.exports = {
     generateMarkdown: generateMarkdown,
-    renderLicenseSection: renderLicenseSection,
+    // renderLicenseSection: renderLicenseSection,
 };
