@@ -47,6 +47,7 @@ THEN I am taken to the corresponding section of the README
 ## Code Sample
 
 
+
 <hr>
 
 ## Usage 
@@ -62,6 +63,7 @@ Below are the following topics/methods that I learned through this project:
  * [Node.js](https://nodejs.org/en)
  * [NPM](https://www.npmjs.com/)
  * [inquirer](https://www.npmjs.com/package/inquirer)
+ * [Node file system](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
 
 <hr>
 

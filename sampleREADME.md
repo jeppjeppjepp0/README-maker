@@ -4,6 +4,8 @@
 
 It is a project
 
+<hr>
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -13,33 +15,44 @@ It is a project
 * [Tests](#tests)
 * [Author Info](#author-info)
 
+<hr>
 
 ## Installation
 
-You install this project carefullly
+You install the project carefully
+
+<hr>
 
 ## Usage 
 
-You use your project carefully
+You use the project carefully
+
+<hr>
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+[https://opensource.org/licenses/MPL-2.0](https://opensource.org/licenses/MPL-2.0)
 
 
+
+<hr>
 
 ## Contributing
 
-There are none; it's a free for all
+There are no guidelines; it is a free for all
+
+<hr>
 
 ## Tests
 
-Trial and error are your best friend
+Trial and Error
+
+<hr>
 
 ## Author Info
 
-### jeppjeppjepp0
+### github.com/jeppjeppjepp0
 
 * [Github](github.com/jeppjeppjepp0)

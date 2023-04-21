@@ -82,7 +82,7 @@ function init() {
     ])
     .then((response) => {
         // console.log(response);
-        writeToFile('sampleREADME.md', response);
+        writeToFile('generatedREADME.md', response);
     })
 }
 

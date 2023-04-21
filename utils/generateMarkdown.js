@@ -53,6 +53,8 @@ function generateMarkdown(data) {
 
 ${data.description}
 
+<hr>
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -62,24 +64,35 @@ ${data.description}
 * [Tests](#tests)
 * [Author Info](#author-info)
 
+<hr>
 
 ## Installation
 
 ${data.installation}
 
+<hr>
+
 ## Usage 
 
 ${data.usage}
 
+<hr>
+
 ${renderLicenseSection(data.license)}
+
+<hr>
 
 ## Contributing
 
 ${data.contributing}
 
+<hr>
+
 ## Tests
 
 ${data.tests}
+
+<hr>
 
 ## Author Info
 
